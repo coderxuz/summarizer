@@ -1,0 +1,54 @@
+{
+    "en": {
+      "start": "Welcome! Send me a YouTube video URL, and I'll fetch the subtitles for you.",
+      "invalid_url": "Invalid YouTube URL. Please try again.",
+      "fetching_subtitles": "Fetching subtitles...",
+      "subtitles_disabled": "Subtitles are disabled for this video.",
+      "video_unavailable": "The video is unavailable or private.",
+      "no_transcript_found": "No subtitles found for the requested language.",
+      "error_occurred": "An error occurred: {}",
+      "summary_generated": "Summary generated:",
+      "summary_too_large": "The summary is too large. Sending in chunks:",
+      "subtitles_saved": "Subtitles summary saved and sent as a file.",
+      "choose_lang":"Choose language",
+      "send_video":"Send video link",
+      "help_txt":"Help",
+      "lang_changed":"Language successfully changed to English",
+      "send_link":"Please send youtube videos link \n <b>it should have subtitles</b"
+    },
+    "uz": {
+      "start": "Xush kelibsiz! Menga YouTube video URL yuboring, va men siz uchun subtitrlarni olishni boshlayman.",
+      "invalid_url": "Noto'g'ri YouTube URL. Iltimos, qayta urinib ko'ring.",
+      "fetching_subtitles": "Subtitrlarni olish...",
+      "subtitles_disabled": "Bu videoda subtitrlar o'chirilgan.",
+      "video_unavailable": "Video mavjud emas yoki maxfiy.",
+      "no_transcript_found": "So'ralgan tilga oid subtitrlar topilmadi.",
+      "error_occurred": "Xato yuz berdi: {}",
+      "summary_generated": "Xulosa yaratildi:",
+      "summary_too_large": "Xulosa juda katta. Qismlarga bo'lib yuborilmoqda:",
+      "subtitles_saved": "Subtitr xulosasi saqlandi va fayl sifatida yuborildi.",
+      "choose_lang":"Tilni tanlang",
+      "send_video":"Video havolasini yuborish",
+      "help_txt":"Yordam",
+      "lang_changed":"Til O'zbek tiliga muvaffaqiyatli almashtirildi",
+      "send_link":"Iltimos, youtube videolari havolasini yuboring \n **subtitr bo'lishi shart**"
+    },
+    "ru": {
+      "start": "Добро пожаловать! Отправьте мне ссылку на видео YouTube, и я получу для вас субтитры.",
+      "invalid_url": "Неверный URL YouTube. Пожалуйста, попробуйте снова.",
+      "fetching_subtitles": "Получение субтитров...",
+      "subtitles_disabled": "Субтитры отключены для этого видео.",
+      "video_unavailable": "Видео недоступно или приватное.",
+      "no_transcript_found": "Субтитры для выбранного языка не найдены.",
+      "error_occurred": "Произошла ошибка: {}",
+      "summary_generated": "Резюме сгенерировано:",
+      "summary_too_large": "Резюме слишком большое. Отправляю по частям:",
+      "subtitles_saved": "Резюме субтитров сохранено и отправлено в виде файла.",
+      "choose_lang":"Выберите язык",
+      "send_video":"Отправьте ссылку на видео",
+      "help_txt":"Помощь",
+      "lang_changed":"Язык успешно изменен на Русский",
+      "send_link":"Пожалуйста, отправьте ссылку на видео на YouTube \n **должны быть субтитры**"
+    }
+  }
+  
