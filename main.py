@@ -17,6 +17,11 @@ SUBTITLE_FOLDER = "uploads"
 # Create a Translator instance (Google Translate API)
 translator = Translator()
 
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/..")
+
+
 # Language dictionaries for messages
 messages = {
     'en': {

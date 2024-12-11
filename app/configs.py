@@ -1,4 +1,11 @@
 import logging
+from os import getenv
+from dotenv import load_dotenv
+
+load_dotenv()
+
+TOKEN = getenv("TOKEN")
+REDIS_URL = getenv('REDIS_URL')
 
 RED = "\033[91m"
 GREEN = "\033[92m"
